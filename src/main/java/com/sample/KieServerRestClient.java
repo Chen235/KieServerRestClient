@@ -32,7 +32,7 @@ public class KieServerRestClient {
 	    String user = "dmAdmin";
 	    String password = "redhatdm1!";
 
-	    String containerId = "loan-application_1.1.0";
+	    String containerId = "loan-application_1.1.1";
 	    String sessionId = "default-stateless-ksession";
 
 	    MarshallingFormat format = MarshallingFormat.JSON;
